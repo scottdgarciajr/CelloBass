@@ -1,0 +1,60 @@
+{
+  "parts": [
+    {
+      "file": "01_PRINT_FIRST_Pin_Fit_Gauge.stl",
+      "size_mm": [
+        100.0,
+        48.0,
+        4.0
+      ],
+      "closed_single_solid": true,
+      "flat_at_z0": true,
+      "unsupported_faces": 0
+    },
+    {
+      "file": "02_Tabletop_Hinge_Base.stl",
+      "size_mm": [
+        68.0,
+        67.98,
+        14.0
+      ],
+      "closed_single_solid": true,
+      "flat_at_z0": true,
+      "unsupported_faces": 0
+    },
+    {
+      "file": "03_Tabletop_Hinge_Cap.stl",
+      "size_mm": [
+        68.0,
+        67.98,
+        4.0
+      ],
+      "closed_single_solid": true,
+      "flat_at_z0": true,
+      "unsupported_faces": 0
+    },
+    {
+      "file": "04_Tabletop_Hinge_Arm.stl",
+      "size_mm": [
+        90.0,
+        20.0,
+        9.4
+      ],
+      "closed_single_solid": true,
+      "flat_at_z0": true,
+      "unsupported_faces": 0
+    }
+  ],
+  "target": "Penn State Maker Commons Prusa MK4S PLA profile",
+  "build_volume_mm": [
+    250,
+    210,
+    220
+  ],
+  "hinge_positions_checked": 91,
+  "overtravel_stops_checked": true,
+  "pin_alignment_checked": true,
+  "lock_blocks_turn_at_both_stops": true,
+  "lock_withdrawal_positions_per_stop": 19,
+  "status": "Geometry checked. Not physically printed or sliced in Penn State account. Tabletop demonstration only."
+}

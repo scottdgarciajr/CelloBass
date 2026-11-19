@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CelloBass • Penn State test prints</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f2f6f6;color:#163346;font:16px/1.55 system-ui,sans-serif}main{max-width:900px;margin:auto;padding:24px}h1{font-size:32px;margin:0 0 8px}h2{font-size:22px;margin:0 0 10px}section{background:#fff;border:1px solid #d4e0e3;border-radius:12px;padding:18px;margin:18px 0}p{margin:8px 0}li{margin:8px 0}a{color:#076d75}code{overflow-wrap:anywhere}svg{width:100%;height:auto;margin-top:12px}.note{background:#fff2df;padding:12px;border-left:4px solid #b67335}.action{display:inline-block;background:#126e72;color:white;padding:9px 14px;border-radius:6px;text-decoration:none}@media(max-width:500px){main{padding:12px}}
+</style>
+<main><h1>CelloBass: print this small test first</h1>
+<p class="note"><strong>These four files make a small test gauge and a tabletop hinge.</strong> The playable instrument is not ready to print. These samples do not attach to the cello or support its weight.</p>
+<section><h2>1. Upload one file first</h2>
+<p><a class="action" href="STL/01_PRINT_FIRST_Pin_Fit_Gauge.stl">Open the first STL file</a></p>
+<p>The 100 × 48 mm plate helps you see how snugly the two metal pins fit. It is flat, with no support structures needed. Keep it at <strong>100% size</strong>; check that the upload shows 100 mm across.</p>
+<ol><li>For a personal project, <a href="https://makercommons.psu.edu/university-park-3d-printing-personal-print-submission-queue-request/">request a personal print code</a>. For a class project, use your instructor’s code.</li><li>Open <a href="https://makercommons.psu.edu/submit/">Penn State’s submission page</a>. Sign in through <strong>SSO → Penn State</strong>, enter the code, and upload the first STL.</li><li>Use the library’s <strong>Prusa MK4S / PLA</strong> setup and leave the flat side on the print bed. Review the preview and submit using your pickup campus. The <a href="https://makercommons.psu.edu/2019/03/07/preparing-a-print-in-3dprinteros/">Penn State walkthrough</a> shows the buttons.</li></ol>
+<p>If the form asks what you’re making, you can write: <em>Small PLA pin-fit gauge and tabletop hinge demonstration for an instrument design project.</em></p>
+<p><a href="https://makercommons.psu.edu/technologies/3d-printing/">Penn State Maker Commons printer and material information</a></p>
+</section>
+<section><h2>2. Try the pins before printing the hinge</h2>
+<p>Use a smooth <strong>6 mm metal pin</strong> for the pivot and a <strong>4 mm metal pin</strong> for the lock. Each needs at least 18 mm of straight, usable length. Try each in its labeled <strong>6.3</strong> or <strong>4.3</strong> hole. The pin should slide in by hand without forcing. If either binds, record which labeled hole fits and adjust the design before printing the hinge. Scaling the whole model would change other fits.</p>
+</section>
+<section><h2>3. Print one of each hinge piece</h2>
+<ul><li><a href="STL/02_Tabletop_Hinge_Base.stl">02 — Base</a>: the bottom piece</li><li><a href="STL/03_Tabletop_Hinge_Cap.stl">03 — Cap</a>: the flat top piece</li><li><a href="STL/04_Tabletop_Hinge_Arm.stl">04 — Arm</a>: the piece that swings</li></ul>
+<p>All three are already flat and sized in millimetres. Print in PLA, at 100%, with no support structures. Use the same library profile as the gauge.</p>
+<svg viewBox="0 0 690 212" role="img" aria-labelledby="sketch-title"><title id="sketch-title">Side view: cap above the base, arm in the gap, pivot pin through all three</title>
+<rect x="43" y="153" width="216" height="20" rx="4" fill="#7395a8"/><rect x="56" y="97" width="50" height="58" fill="#7395a8"/>
+<rect x="43" y="76" width="216" height="20" rx="4" fill="#aec2cd"/>
+<rect x="162" y="103" width="190" height="45" rx="8" fill="#16877f"/>
+<path d="M207 55V177" stroke="#c2732a" stroke-width="10" stroke-linecap="round"/>
+<path d="M77 67V180" stroke="#344f60" stroke-width="5" stroke-dasharray="6 5"/>
+<path d="M215 56H390M260 86H390M352 125H390M261 164H390" stroke="#728491" fill="none"/>
+<g font-family="system-ui,sans-serif" font-size="20" fill="#163346"><text x="399" y="62">6 mm pivot pin</text><text x="399" y="92">Cap</text><text x="399" y="131">Swinging arm</text><text x="399" y="170">Base</text><text x="43" y="203" font-size="16">Side view • the arm sits between the base and cap</text></g></svg>
+<p>Place the cap so you can see daylight through the center hole and both small lock holes. Put the arm into the gap. Start <strong>two M5 × 30 mm bolts, washers and nuts</strong> in the holes on the solid side. Leave them loose while you slide the 6 mm pin through the center of the cap, arm and base. Then snug the bolts evenly by hand with a tool. Use this on the table only.</p>
+</section>
+<section id="manual"><h2>Check the parts by hand</h2>
+<p>A ruler, the pins and your hands are enough to start. A phone photo of any problem is useful.</p>
+<ol>
+<li><strong>Check the first print.</strong> Lay the gauge flat and measure the long side with a ruler. It should be about 100 mm. Try the smooth part of each pin in its row. Write down the smallest hole it slides through easily. The hinge uses 6.3 mm and 4.3 mm holes. If either pin binds there, stop at the gauge and share the sizes that worked.</li>
+<li><strong>Check the three hinge pieces before assembly.</strong> Put each flat face on the table. Look for rocking, lifted corners or splits. Try the 6 mm pin through each center hole separately. Try the 4 mm pin through the small holes. A pin that fits each piece but jams through the stack points to alignment or a warped part. Check cap orientation and loosen the bolts to see if it lines up.</li>
+<li><strong>Swing the arm without the small pin.</strong> Hold the base on the table and move the arm slowly. It should turn through roughly a quarter circle, with a distinct stop at both ends. It should move with light finger pressure. Mark where any scrape or tight spot starts.</li>
+<li><strong>Try both locks.</strong> At the first stop, slide the 4 mm pin through the cap, arm and bottom plate. Look underneath or lift the sample slightly to check that it reaches the bottom plate. Nudge the arm gently. A little wiggle is normal and the arm should stay at that end. Pull the pin fully clear, turn to the other stop and repeat. A pin that slips into the cap alone can look seated even though the arm can still turn.</li>
+<li><strong>Repeat ten times.</strong> Open, lock, unlock, fold and lock again using gentle hand pressure. Check that the cap stays seated, the bolts stay snug and the pins stay easy to handle. Stop if you see cracking, a pale stress mark or increasing looseness. Keep this sample on the table.</li>
+</ol>
+<p><strong>What to write down</strong> — pickup campus and filament if known, gauge width, easiest hole sizes, which stop locks, and where the arm rubs or wobbles. Photograph any pin that stops short with the top and bottom of the hinge visible.</p>
+</section>
+<section id="fit"><h2>Check the seated positions with a lightweight mock-up</h2>
+<p>Use your usual chair and a lightweight cardboard outline about 107 cm long. Ask a helper to hold it while you find a natural playing position. Keep the mock-up free of tensioned strings, weights and wearable straps.</p>
+<ol>
+<li><strong>Bass position.</strong> Hold the outline with the neck angled gently up. Put a folded towel where the lower pad would meet your right thigh. Check whether the contact is broad, the body stays level when you ease your grip with the helper holding it, and your left hand can reach along the neck with a relaxed wrist. Mark where your forearm lands.</li>
+<li><strong>Cello position.</strong> Have your helper hold the outline upright at a comfortable bowing height. Mark where your knees naturally meet it and where the bridge would be. Trace a bow stroke with a light stick. Watch for your hand or bow crossing the proposed pads, legs or chair. The upright knee support and the weight-bearing attachment still need design.</li>
+<li><strong>Practice the change slowly.</strong> With your helper supporting the outline, put the mock bow down, use both hands to turn toward bass, and check whether the tail clears the chair and floor. Check whether you can reach the pedal with your foot without shifting out of position. With the printed hinge on the table, try reaching and withdrawing the lock to get a feel for the motion. Final access on the instrument will depend on the installed hardware.</li>
+</ol>
+<p>Take a front and side photo in each pose with a ruler in view. Mark where your knees and thigh touch and note anything you have to reach for or hold up. That information can guide the next support revision. The hinge test checks motion and fit on the table. The seated mock-up checks reach and contact.</p>
+</section>
+<p>The four STL files passed digital size and geometry checks, including the hinge stops and both lock positions. Physical print fit is the next check. No print job has been submitted.</p>
+</main></html>

@@ -1,0 +1,49 @@
+CelloBass asset-specific licensing and attribution
+
+This repository contains original project work, adaptations, and separately
+licensed third-party source archives. Permissions depend on the asset.
+
+O'Cello source and O'Cello-derived geometry
+---------------------------------------
+Author: Conor O'Kane
+Project: https://o-cello.com/
+License: Creative Commons Attribution-NonCommercial 4.0 International
+License URL: https://creativecommons.org/licenses/by-nc/4.0/
+Legal text: licenses/CC-BY-NC-4.0.txt
+
+The unmodified source archive is 02_ORIGINAL_PROJECTS/O-Cello_Source.zip.
+Derived assets include the exported O'Cello meshes, Blender study assemblies,
+source-containing GLB/model data, and renders of the adapted instrument.
+Changes made by the CelloBass project include non-string-bearing frame and
+support studies, kinematic views, and mechanism prototypes. The original
+evaluated musical surfaces are preserved as described in the audit reports.
+Retain attribution, identify changes, and comply with the noncommercial terms.
+
+OpenBass source archive and reference material
+---------------------------------------------
+Author: tbenen
+Project: https://www.printables.com/model/1378247-openbass-customizable-3d-printed-multiscale-headle
+License: Creative Commons Attribution-ShareAlike 4.0 International
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Legal text: licenses/CC-BY-SA-4.0.txt
+
+The unmodified archive is 02_ORIGINAL_PROJECTS/OpenBass_Original.zip.
+The supplied project-page PDF records the license. The archive and reference
+renders retain those terms. OpenBass geometry is used for source inspection
+and construction reference. It is not incorporated into the CelloBass assembly.
+
+Other CelloBass project work
+---------------------------
+No additional blanket license is granted for independently authored code,
+documentation, and original assets by publishing this collection. Contact the
+repository owner for permissions beyond those provided by an applicable
+third-party license. This statement does not restrict permissions already
+granted by the licenses listed above.
+
+The seated-player storyboard and early visual references are AI-generated
+concept illustrations. Prompts and provenance for the seated-player image
+are retained in output/r03/source and output/r03/reports.
+
+The original authors have not endorsed this independent prototype. Prototype
+status, incomplete supports, and untested physical properties are documented
+in the README and verification reports.

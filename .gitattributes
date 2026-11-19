@@ -1,0 +1,8 @@
+*.stl binary
+*.blend binary
+*.glb binary
+*.zip binary
+*.png binary
+*.step -text -diff linguist-generated=true
+output/**/*.json linguist-generated=true
+output/**/*.html linguist-generated=true

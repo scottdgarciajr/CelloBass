@@ -1,0 +1,17 @@
+.venv/
+tools/blender/
+tools/downloads/
+work/
+__pycache__/
+output/source_meshes/native_units/
+*.blend1
+*.blend2
+CelloBass_r*_Prototype_Package.zip
+output/reports/package_manifest.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db

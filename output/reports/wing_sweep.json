@@ -1,0 +1,7 @@
+{
+  "method": "AABB separation with continuous angular displacement padding",
+  "angle_step_deg": 1,
+  "padding_mm": 1.4066857835874709,
+  "possible_intersections": [],
+  "exclusions": "Hinges, locks, real tuners, strings, human, harness, wires and padding not fully modeled; no whole-instrument clearance certification"
+}

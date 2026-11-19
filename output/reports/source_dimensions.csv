@@ -1,0 +1,55 @@
+item,value,unit,status,provenance,notes
+Blender scale conversion,1000,mm per scene unit,MEASURED,"scene.unit_settings METRIC, scale_length=1.0",Length display METERS; evaluated matrix_world applied before conversion
+Bridge X extent,66.16502,mm,MEASURED,Blender evaluated Bridge world mesh,Envelope; not automatically a functional mating dimension
+Bridge Y extent,18.30545,mm,MEASURED,Blender evaluated Bridge world mesh,Envelope; not automatically a functional mating dimension
+Bridge Z extent,6.24552,mm,MEASURED,Blender evaluated Bridge world mesh,Envelope; not automatically a functional mating dimension
+Center bar X extent,12.2,mm,MEASURED,Blender evaluated Center bar world mesh,Envelope; not automatically a functional mating dimension
+Center bar Y extent,20.79589,mm,MEASURED,Blender evaluated Center bar world mesh,Envelope; not automatically a functional mating dimension
+Center bar Z extent,999.99999,mm,MEASURED,Blender evaluated Center bar world mesh,Envelope; not automatically a functional mating dimension
+Part 1 X extent,39.11072,mm,MEASURED,Blender evaluated Part 1 world mesh,Envelope; not automatically a functional mating dimension
+Part 1 Y extent,36.47959,mm,MEASURED,Blender evaluated Part 1 world mesh,Envelope; not automatically a functional mating dimension
+Part 1 Z extent,188.81398,mm,MEASURED,Blender evaluated Part 1 world mesh,Envelope; not automatically a functional mating dimension
+Part 2 X extent,49.51984,mm,MEASURED,Blender evaluated Part 2 world mesh,Envelope; not automatically a functional mating dimension
+Part 2 Y extent,30.92845,mm,MEASURED,Blender evaluated Part 2 world mesh,Envelope; not automatically a functional mating dimension
+Part 2 Z extent,189.98376,mm,MEASURED,Blender evaluated Part 2 world mesh,Envelope; not automatically a functional mating dimension
+Part 3 X extent,59.75935,mm,MEASURED,Blender evaluated Part 3 world mesh,Envelope; not automatically a functional mating dimension
+Part 3 Y extent,33.61811,mm,MEASURED,Blender evaluated Part 3 world mesh,Envelope; not automatically a functional mating dimension
+Part 3 Z extent,189.99705,mm,MEASURED,Blender evaluated Part 3 world mesh,Envelope; not automatically a functional mating dimension
+Part 4 X extent,67.61277,mm,MEASURED,Blender evaluated Part 4 world mesh,Envelope; not automatically a functional mating dimension
+Part 4 Y extent,42.5451,mm,MEASURED,Blender evaluated Part 4 world mesh,Envelope; not automatically a functional mating dimension
+Part 4 Z extent,147.54795,mm,MEASURED,Blender evaluated Part 4 world mesh,Envelope; not automatically a functional mating dimension
+Part 5 X extent,67.61277,mm,MEASURED,Blender evaluated Part 5 world mesh,Envelope; not automatically a functional mating dimension
+Part 5 Y extent,37.46641,mm,MEASURED,Blender evaluated Part 5 world mesh,Envelope; not automatically a functional mating dimension
+Part 5 Z extent,119.30346,mm,MEASURED,Blender evaluated Part 5 world mesh,Envelope; not automatically a functional mating dimension
+Part 6 X extent,87.90008,mm,MEASURED,Blender evaluated Part 6 world mesh,Envelope; not automatically a functional mating dimension
+Part 6 Y extent,52.55564,mm,MEASURED,Blender evaluated Part 6 world mesh,Envelope; not automatically a functional mating dimension
+Part 6 Z extent,175.57308,mm,MEASURED,Blender evaluated Part 6 world mesh,Envelope; not automatically a functional mating dimension
+Chest rest X extent,131.61808,mm,MEASURED,Blender evaluated Chest rest world mesh,Envelope; not automatically a functional mating dimension
+Chest rest Y extent,117.69004,mm,MEASURED,Blender evaluated Chest rest world mesh,Envelope; not automatically a functional mating dimension
+Chest rest Z extent,35.60594,mm,MEASURED,Blender evaluated Chest rest world mesh,Envelope; not automatically a functional mating dimension
+Knee bar X extent,370.0,mm,MEASURED,Blender evaluated Knee bar world mesh,Envelope; not automatically a functional mating dimension
+Knee bar Y extent,20.0,mm,MEASURED,Blender evaluated Knee bar world mesh,Envelope; not automatically a functional mating dimension
+Knee bar Z extent,20.00001,mm,MEASURED,Blender evaluated Knee bar world mesh,Envelope; not automatically a functional mating dimension
+Knee rest left X extent,25.39587,mm,MEASURED,Blender evaluated Knee rest left world mesh,Envelope; not automatically a functional mating dimension
+Knee rest left Y extent,100.94425,mm,MEASURED,Blender evaluated Knee rest left world mesh,Envelope; not automatically a functional mating dimension
+Knee rest left Z extent,110.45739,mm,MEASURED,Blender evaluated Knee rest left world mesh,Envelope; not automatically a functional mating dimension
+Knee rest right X extent,25.39587,mm,MEASURED,Blender evaluated Knee rest right world mesh,Envelope; not automatically a functional mating dimension
+Knee rest right Y extent,100.94425,mm,MEASURED,Blender evaluated Knee rest right world mesh,Envelope; not automatically a functional mating dimension
+Knee rest right Z extent,110.45739,mm,MEASURED,Blender evaluated Knee rest right world mesh,Envelope; not automatically a functional mating dimension
+Rod nominal diameter,12,mm,DOCUMENTED,Official O-Cello assembly guide page 1,Not independently caliper measured
+Rod nominal length,1000,mm,DOCUMENTED,Official O-Cello assembly guide page 1,Source Center bar Z extent is about 1000; modeled cap-to-cap axis is slightly different
+Modeled bar maximum X width,12.2000007,mm,MEASURED,Center bar evaluated bounds,12.2 model versus 12 nominal hardware; do not silently shrink source
+Six printed core sections longitudinal envelope,950.2339,mm,MEASURED,Parts 1-6 evaluated mesh,"Excludes rod extension, supports, tuner hardware and endpin"
+Effective speaking scale,,mm,UNRESOLVED,Nut ridge and bridge mesh preserved,Four string contact points and actual string diameters not assigned; do not manufacture a nominal replacement fingerboard
+Nut to bridge longitudinal contact bounding window,689.078 to 697.278,mm Z separation,MEASURED_BOUNDS_ONLY,Part 1 nut ridge vertices Z 747.4924..749.4467; full Bridge bounds,Not effective scale or a calibrated string contact measurement
+Nut outer groove nominal center spread,,mm,UNRESOLVED,Part 1 original notches,Approximate notch regions X +/-11.5..12.2; exact bearing points require assignment
+Bridge outer groove valley vertex spread,47.24045,mm X projected,MEASURED_VERTEX_PROXY,Bridge groove valley vertices listed in bridge_contact_candidates.json,Projected source-vertex spread only; not certified string-center spacing
+Bridge arch radius,,mm,UNRESOLVED,Bridge supplied asymmetric mesh,Do not replace with a fitted symmetric radius; full curve preserved
+Original neck/fingerboard profile,,,PRESERVED_MESH,Part 1-4 evaluated original meshes,No reconstructed parametric profile claimed; extents in object_dimensions.csv
+String anchor / tailpiece dimensions,,mm,UNRESOLVED,Part 1 rear anchor region; guide page 13,"Source uses rear string anchoring, not a separate modeled conventional tailpiece"
+Tuning key mounting pattern,,mm,UNRESOLVED,Part 6 tuner bores; guide pages 9-10,"Actual purchased key shafts, screws and buttons absent; source interface retained"
+Endpin tube diameter / length,10 / 450,mm,DOCUMENTED,"Official guide pages 1,14",Tube absent from .blend; modeled stow tube is an assumption with assumed 1mm wall
+Existing part joins,,mm,UNRESOLVED_INTERFACE,Overlapping Parts 1-6; M5 hardware documented,Bounds include tongues; do not treat Z bounds as joint planes
+Reinforced harness interfaces,,mm,PROPOSAL_NOT_VALIDATED,"Kinematic anchors (-40,-50,180),(-40,-50,460)",New metal rail envelope; positive metal-to-rod retention unresolved; no attachment in printed wing
+cello study L x W x D,1070.277 x 420.000 x 148.481,mm,MEASURED_PARTIAL_MODEL,state_bounds.json,"Excludes actual tuners, strap hardware, locks, protective shell and padding"
+travel study L x W x D,1070.277 x 187.272 x 148.481,mm,MEASURED_PARTIAL_MODEL,state_bounds.json,"Excludes actual tuners, strap hardware, locks, protective shell and padding"

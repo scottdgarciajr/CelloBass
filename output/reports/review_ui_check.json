@@ -1,0 +1,11 @@
+{
+  "browser": "headless Chromium, existing installation",
+  "state_buttons": {
+    "cello": "Upright: same rigid core, wings deployed. Support/harness absent from this mesh viewer; see Blender routing sketches.",
+    "bass": "Horizontal: exactly the same deployed assembly after a global rotation. No wing adjustment or bridge movement.",
+    "transition": "45\u00b0 orientation study. Human, bow, straps and cable sweeps remain NOT TESTED.",
+    "travel": "Only wings fold. The original chest rest and full-length reinforced core stay fixed. Model length remains 1,070 mm."
+  },
+  "desktop_and_mobile_no_horizontal_overflow": true,
+  "page_errors": []
+}

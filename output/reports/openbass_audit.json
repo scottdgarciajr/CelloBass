@@ -1,0 +1,24 @@
+{
+  "source": "work/source_unpacked/OpenBass/OpenBass V2.1/openbass-v21-v27.step",
+  "unit": "mm",
+  "valid": true,
+  "solid_count": 7,
+  "bounds": [
+    [
+      -165.5057834469726,
+      -527.97282563171,
+      -42.34130010000044
+    ],
+    [
+      169.9240895244917,
+      475.59953020923405,
+      7.943100100617988
+    ]
+  ],
+  "dimensions": [
+    335.4298729714643,
+    1003.572355840944,
+    50.28440020061843
+  ],
+  "role": "REFERENCE ONLY; no OpenBass geometry incorporated into CelloBass"
+}

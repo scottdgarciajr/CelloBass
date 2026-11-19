@@ -1,0 +1,26 @@
+{
+  "unit": "mm",
+  "status": "source groove valley vertices ONLY; not assigned string center/contact points",
+  "points": [
+    [
+      -23.81472,
+      25.12385,
+      52.25145
+    ],
+    [
+      -8.02448,
+      30.73357,
+      52.1927
+    ],
+    [
+      8.1719,
+      31.81029,
+      52.1833
+    ],
+    [
+      23.42573,
+      27.28815,
+      52.23201
+    ]
+  ]
+}

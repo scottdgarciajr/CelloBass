@@ -1,0 +1,38 @@
+{
+  "hinge_x_mm": 55,
+  "hinge_y_mm": -70,
+  "hinge_z_mm": 150,
+  "wing_reach_mm": 155,
+  "wing_depth_mm": 12,
+  "wing_height_mm": 57,
+  "rotation_center_mm": [
+    0,
+    -40,
+    280
+  ],
+  "metal_rail_envelope_mm": [
+    25,
+    10,
+    680
+  ],
+  "metal_rail_center_mm": [
+    -40,
+    -50,
+    150
+  ],
+  "anchor_proposals_mm": [
+    [
+      -40,
+      -50,
+      180
+    ],
+    [
+      -40,
+      -50,
+      460
+    ]
+  ],
+  "mass_assumption_kg": 3.5,
+  "com_offset_assumption_mm": 150,
+  "status": "r0.2 ENVELOPE STUDY; live support unresolved; NOT FOR INSTRUMENT PRINT"
+}

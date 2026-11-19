@@ -1,0 +1,11 @@
+part,material,x_mm,y_mm,z_mm,volume_mm3,watertight,one_solid,printer_fit,print_orientation
+C01_anchor_drill_template,PETG,64.0,34.0,6.0,12145.71,True,True,True,Flat; steel plate drilling/fit template only
+C02_rod_saddle_half,PETG,42.0,32.0,14.0,14951.12,True,True,True,Flat base; print two for dummy-rod fit only
+C03_swivel_mock,PETG,60.0,59.981,8.0,20975.94,True,True,True,"Disk flat; print two; anti-roll pin mock, no live suspension"
+C04_wing_hinge_base,PETG,68.0,67.979,18.0,33424.93,True,True,True,Lower disk flat; supports under upper disk; clear bores after print
+C05_wing_hinge_tongue,PETG,69.997,20.0,9.4,11030.38,True,True,True,Flat; 0.3 mm axial gap each side
+C06_travel_latch,PETG,44.0,24.0,21.0,10954.26,True,True,True,Base flat; support transverse pin bores
+C07_travel_tang,PETG,22.0,18.0,18.0,6808.65,True,True,True,Base flat; fit pin to C06 at tang bottom z=3 mm
+C08_endpin_stow_clip,TPU,32.0,23.165,16.0,3955.01,True,True,True,Flat flange; no support; retention only
+C09_M6_clearance_gauge,PETG,100.0,30.0,6.0,17064.74,True,True,True,Flat; diameters left to right 6.1/6.2/6.3/6.4/6.5
+C10_rod_clearance_gauge,PETG,100.0,30.0,6.0,15148.49,True,True,True,Flat; diameters left to right 12.0/12.2/12.4/12.6

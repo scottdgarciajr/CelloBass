@@ -1,0 +1,19 @@
+{
+  "pivot_diameter_mm": 6.3,
+  "pivot_hardware_mm": 6,
+  "lock_diameter_mm": 4.3,
+  "lock_hardware_mm": 4,
+  "tongue_bottom_mm": 4.3,
+  "tongue_top_mm": 13.7,
+  "clevis_gap_mm": 10,
+  "index_radius_mm": 24,
+  "rod_nominal_mm": 12,
+  "rod_coupon_bore_mm": 12.4,
+  "endpin_nominal_mm": 10,
+  "endpin_coupon_bore_mm": 10.5,
+  "printer_mm": [
+    200,
+    200,
+    200
+  ]
+}

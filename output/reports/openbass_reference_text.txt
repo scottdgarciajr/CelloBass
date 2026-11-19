@@ -1,0 +1,127 @@
+PAGE 1
+Summary
+This is a customizable, configurable DIY electric bass guitar. Design files
+and documentation are included!
+Hobby & Makers > Music
+T ags: music guitar fender musicalinstrument instrument
+bassguitar electricguitar bass prusacaster
+9/10/26: Ploutone no longer makes the headless bridges used in the
+original models. There may be remixes for alternate part compatibility!
+Welcome to OpenBass! This is my first DIY guitar project. There are many
+3D printed guitar projects online, but not many 3D printed basses with
+fully 3D printed guitar necks. I saw this as an opportunity to push myself
+as a designer and see what the limitations were with this kind of project.
+This was a great hands-on experience with design intent and
+parametrically driven models.
+Like many of my projects, I wanted a headless, multiscale, 4-string bass
+and building one was a great way to customize it to my exact
+tbenen
+OpenBass -
+Customizable 3D
+Printed, Multiscale,
+Headless Electric
+Bass
+VIEW IN BROWSER
+updated 11. 9. 2026 | published 11. 9. 2026 
+3D MODEL ONLY
+
+PAGE 2
+specifications. Building a guitar from scratch is also a great way to learn
+about why guitars are built the way they are and how to do your own
+guitar setup. The end result was a lot of learning and a fully playable bass
+that looks and sounds great. 
+OpenBass V2.0
+Length: 1008 mm 24 + 1 Frets (0th Fret)
+Width: 355 mm Neck Thickness 1st Fret: 22 mm
+Body Thickness: 40 mm Neck Thickness 12th Fret: 25 mm
+Long Scale: 34.5 in Neck Heel Width: 64 mm
+Short Scale: 33 in Neutral Fret: 7th
+Nut Width: 1.5 in Fretboard Radius: 20 in
+String Spacing at Bridge: 19 mm
+(between strings) 
+String Spacing at Nut: 7.5 mm
+(between strings) 
+OpenBass V2.1
+Length: 1007 mm 22 + 1 Frets (0th Fret)
+Width: 356 mm Neck Thickness 1st Fret: 22 mm
+Body Thickness: 40 mm Neck Thickness 12th Fret: 25 mm
+Long Scale: 34.25 in Neck Heel Width: 64 mm
+Short Scale: 33.75 in Neutral Fret: 7th
+Nut Width: 1.5 in Fretboard Radius: 9.5 in
+
+PAGE 3
+Model files
+String Spacing at Bridge: 19 mm
+(between strings) 
+String Spacing at Nut: 7.5 mm
+(between strings) 
+I used Matte PLA to keep it minimal, but the model lends itself to use all
+sorts of fun filament colors for the body. Includes 3D printed fret press and
+3D printed fret bender!
+For the full design guide, parts list, and assembly instructions, see the Doc
+here or in PDF in files: https://docs.google.com/document/d/
+1787XH67hc2K-ue8DQ6k_0tpD97aBMxZDR4CtvU6GlKI/edit?usp=sharing
+8/9/25: Added Pickup_Placement_Ratio parameter for angled pickups,
+suggested by u/Poulito on r/Luthier
+10/10/25: There was a mistake with the V2.1 neck models that made the
+fret slots too shallow close to the body. This has been updated in the
+model, but if you downloaded before today you can deepen the fretslots
+with a hacksaw! If the frets end up a bit loose due to the widened slot, you
+can add superglue to ensure it seats permanently. 
+9/10/26: Ploutone no longer makes the headless bridges used in the
+original models. There may be remixes for alternate part compatibility!
+ OpenBass V2.1 12 files
+electronics-cover.stl 
+body2.stl 
+modifier.stl 
+
+PAGE 4
+ OpenBass V2.0 12 files
+nut.stl 
+body1.stl 
+openbass-v21.3mf 
+neck-shim.stl 
+neck1.stl 
+neck2.stl 
+neck3.stl 
+openbass-v21-v27.step 
+openbass-v21-v27.f3d 
+
+PAGE 5
+electronics-cover.stl 
+body2.stl 
+modifier.stl 
+openbass-v2.3mf 
+nut.stl 
+body1.stl 
+neck-shim.stl 
+neck1.stl 
+neck3.stl 
+neck2.stl 
+
+PAGE 6
+ 3D Printed Tools 9 files
+openbass-v2-v176.step 
+openbass-v2-v176.f3d 
+fret-press-20-inch.stl 
+fret-press-95-inch.stl 
+fretwire-bender-v9.stl 
+pusher-1.stl 
+side-plate.stl 
+pusher-2.stl 
+top-plate.stl 
+
+PAGE 7
+Other files
+License 
+This work is licensed under a 
+Creative Commons (4.0 International License)
+Attribution-ShareAlike
+✖ | Sharing without ATTRIBUTION 
+✔ | Remix Culture allowed 
+✔ | Commercial Use 
+✔ | Free Cultural Works 
+✔ | Meets Open Definition 
+ring.stl 
+bottom-plate.stl 
+openbass-design-guide-6.pdf 

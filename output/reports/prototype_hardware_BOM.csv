@@ -1,0 +1,29 @@
+group,item,quantity,nominal_specification,status,notes
+source,Core steel rod,1,12 mm diameter x 1000 mm,DOCUMENTED_NOT_PURCHASED,Source model X width 12.2 mm; preserve musical geometry
+source,Aluminum endpin tube,1,10 mm OD x 450 mm,DOCUMENTED_NOT_PURCHASED,Wall thickness not documented; 1 mm used only in study
+source,Cello strings,4,C2 G2 D3 A3,DOCUMENTED_NOT_PURCHASED,Match actual speaking and afterlength requirements
+source,Tuners,4,2 left and 2 right bass tuning keys,DOCUMENTED_NOT_PURCHASED,Actual shafts and buttons absent from source
+source,Original long screws,7,M5 x 45 socket head,DOCUMENTED_NOT_PURCHASED,Source guide counts
+source,Original short screws,2,M5 x 30 socket head,DOCUMENTED_NOT_PURCHASED,Source guide counts
+source,Original nuts,9,M5,DOCUMENTED_NOT_PURCHASED,Do not assume extra harness loads are supported
+source,Original washers,12,M5,DOCUMENTED_NOT_PURCHASED,Source guide counts
+proposal,Metal rear rail,1,25 x 10 x 680 mm aluminum envelope,UNRESOLVED,No engineering grade or structural attachment release
+proposal,Positive metal-to-rod retention,1,TBD,UNRESOLVED,Blocks tension-ready rotating harness assembly
+proposal,Load-rated body harness and anchors,1,Two continuously attached branches plus anti-roll support,NOT SELECTED_OR_TESTED,Do not use coupon swivel as live load-bearing hardware
+coupon,C01 drill template,1,64 x 34 x 6 mm PETG,DIGITAL_EXPORT_CHECKED,Steel backplate interface proposal only
+coupon,C02 saddle halves,2,42 x 32 x 14 mm PETG,DIGITAL_EXPORT_CHECKED,Dummy rod fit only
+coupon,Saddle bolts and nuts,4,M5 x 40 with washers,PROVISIONAL_BENCH_ONLY,Verify actual stacked grip
+coupon,C03 mock swivel disks,2,60 mm diameter x 8 mm PETG,DIGITAL_EXPORT_CHECKED,25 mm mock webbing slot; not live switching mechanism
+coupon,Swivel bolt and nut,1,M8 x 30 with washers and locknut,PROVISIONAL_BENCH_ONLY,No suspension rating
+coupon,C04 and C05 hinge pair,1,6.3 mm pivot and 4.3 mm lock bores,DIGITAL_EXPORT_CHECKED,Print each part once
+coupon,Steel pivot pin,1,6 mm diameter usable grip >=18 mm,PROVISIONAL_BENCH_ONLY,About 25 mm total; positively retain and tether
+coupon,Steel hinge lock pin,1,4 mm diameter usable grip >=18 mm,PROVISIONAL_BENCH_ONLY,Positively retain and tether; stop positions 0 and 90 deg
+coupon,C06 and C07 latch pair,1,44 mm wide fixture with cross pin,DIGITAL_EXPORT_CHECKED,Raise tang underside 3 mm for hole alignment
+coupon,Steel travel latch pin,1,4 mm diameter usable grip >=44 mm,PROVISIONAL_BENCH_ONLY,About 50 mm total depending on retention
+coupon,C08 TPU clip,2,10.5 mm retention bore,DIGITAL_EXPORT_CHECKED,Stow only; no floor load
+coupon,C09 and C10 gauges,1 each,M6 and 12 mm rod fit series,DIGITAL_EXPORT_CHECKED,Print first and measure
+coupon,Fixture fasteners and tethers,as required,M3/M5 steel bolts washers nuts and pin lanyards,PROVISIONAL_BENCH_ONLY,Length depends on supporting bench fixture
+electronics,Pickup and impedance buffer,1 each,Bridge-compatible piezo plus specified input,NOT SELECTED_OR_TESTED,No drilling template or functioning pickup supplied
+electronics,Fixed output jack and strain relief,1 each,TBD shielded audio hardware,NOT SELECTED_OR_TESTED,Final footprint and cable bend radius unresolved
+electronics,Offboard effects host,1,Computer with audio interface and REAPER candidate,PROPOSED_NOT_CONFIGURED,No DAW downloaded or mapping tested
+electronics,USB MIDI footswitch,1,One MIDI event per press,NOT SELECTED_OR_TESTED,Map to entire bass chain bypass and verify no double toggle

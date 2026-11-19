@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    "CelloBass_bass",
+    "CelloBass_cello",
+    "CelloBass_transition",
+    "CelloBass_travel"
+  ],
+  "linked_meshes_per_scene": 14,
+  "all_mesh_datablocks_shared": true,
+  "unit_mm": true
+}

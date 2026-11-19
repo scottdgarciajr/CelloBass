@@ -1,0 +1,25 @@
+revision,check,status,evidence_or_next_action
+r0.2,Original archive hashes,PASS,source_files.csv compared to locked first audit
+r0.2,Blender units and source object envelopes,PASS,blender_audit.json and object_dimensions.csv
+r0.2,Exact effective speaking length,UNRESOLVED,Assign nut and bridge bearing points with installed string geometry
+r0.2,Original musical mesh surfaces preserved,PASS,Original surface regression below 0.0001 mm
+r0.2,Live wings unchanged and no bridge articulation,PASS,live_geometry_regression.json
+r0.2,Ideal coupon mesh and STEP exports,PASS,regression_checks.json
+r0.2,Local ideal hinge sweep and positive stops,PASS,hinge_sweep.json and regression_checks.json
+r0.2,Continuous padded wing envelope vs core sweep,PASS_LIMITED,wing_sweep.json excludes final hardware and harness
+r0.2,Integrated final hinge and captive locking hardware,NOT DESIGNED,Integrate after bench fit and support feasibility
+r0.2,Metal-to-rod support connection,UNRESOLVED,Engineer positive retained metal force path
+r0.2,Harness load and upright stability,NOT TESTED,Supported full-length dummy first
+r0.2,Human live rotation and anti-roll behavior,NOT TESTED,Musician with independently supported dummy
+r0.2,Bow stroke and actual individual-string access,NOT TESTED,Full bow and string contact assignment needed
+r0.2,Bow parking or handoff during switch,UNRESOLVED,Test reachable safe holder or grip sequence
+r0.2,Cable strain relief and torsion,NOT TESTED,Actual pickup jack and cable assembly needed
+r0.2,Endpin captive stow and retention,NOT TESTED,Clip coupon only; do not claim instant switch with planted endpin
+r0.2,Physical print fit and material creep,NOT TESTED,Print gauges and mechanism coupons
+r0.2,Model packing dimensions,PASS_PARTIAL,1070.277 x 187.272 x 148.481 mm excluding complete hardware
+r0.2,Complete instrument sleeve fit,NOT TESTED,Measure after hardware and padding added
+r0.2,Pickup impedance and signal quality,NOT TESTED,Choose compatible pickup and buffer
+r0.2,One-action configured effects switching,NOT TESTED,Host and USB MIDI mapping proposed only
+r0.2,Acoustic latency tracking and open string tone,NOT TESTED,Record bowed and plucked test phrases
+r0.2,Measured physical switch time,NOT TESTED,No target timing claimed
+r0.2,Full production CAD and instrument STL release,HOLD,Gate B support feasibility and physical fit tests required

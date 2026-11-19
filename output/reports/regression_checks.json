@@ -1,0 +1,816 @@
+{
+  "passed": 146,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "immutable 02_ORIGINAL_PROJECTS/O-Cello_Source.zip",
+      "pass": true,
+      "detail": "6d946b4785cc557022a842510bbbfd9e8ec57ac02d136a6f0175dff833463718"
+    },
+    {
+      "check": "immutable 02_ORIGINAL_PROJECTS/OpenBass_Original.zip",
+      "pass": true,
+      "detail": "7d50514195edab7526aee8b8f6f50b28c3bf736eaf878628b6b415f4954bf93a"
+    },
+    {
+      "check": "immutable work/source_unpacked/O-Cello/O-Cello_Source.blend",
+      "pass": true,
+      "detail": "81392efd0aad3f85547150a6e0e1ac44847012c1951d66eda3a7e134cc2f36f3"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/1378247-openbass-customizable-3d-printed-multiscale-headless-electric-bass-b581336c-5c6e-4568-887e-ee858af5e84e.pdf",
+      "pass": true,
+      "detail": "226312be79f83966d91b47512cd54e713302f09de0b3369acf0e964024009de9"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/bottom-plate.stl",
+      "pass": true,
+      "detail": "78ddabce00d9c5cf32e76b58c2149b00b29c90d0fbfb427a4dc81e7dec0c268b"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/fret-press-20-inch.stl",
+      "pass": true,
+      "detail": "bf0e0a1e6e6da9250835e44a625535f8080423402e9b85bf0766c37164cc9aad"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/fret-press-95-inch.stl",
+      "pass": true,
+      "detail": "e65d5fa45569bd71060cbb76590b0fe594ba67ffee56888266a267c5233a9b25"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/fretwire-bender-v9.stl",
+      "pass": true,
+      "detail": "6fa95f034eaad0f578f49ec552fe21bc79bbf1998d453cdd4be37603994850ab"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/pusher-1.stl",
+      "pass": true,
+      "detail": "37cb4d2feb63332218f3127e69609dc85e12dfab224da692d1328a54a855e399"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/pusher-2.stl",
+      "pass": true,
+      "detail": "511e490989b8543dea1908160b2e5bcccc7a94753c37d0776915b306a31906cd"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/ring.stl",
+      "pass": true,
+      "detail": "72927ef62d226aef8a03beb77f3c765e4afe2dc1b2cd1c4729de1d382f733726"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/side-plate.stl",
+      "pass": true,
+      "detail": "431f2c1031398d4dabe17d47fffc3b9d7a764f3fbc0d0120c2d92ad7c8f544cb"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/3D Printed Tools/top-plate.stl",
+      "pass": true,
+      "detail": "62fd46fec6a854e35a4f045d7acffac1af31c3b846834ec22aae7bf4b940e112"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/body1.stl",
+      "pass": true,
+      "detail": "edde391bb5d39db5606f768806a201db084d1a66a50583b52979eb25810bd088"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/body2.stl",
+      "pass": true,
+      "detail": "e1a25b8c8dd64cc27d251bd750eac4b3c8daea87301af04b8c9a8714fd13b2ef"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/electronics-cover.stl",
+      "pass": true,
+      "detail": "0d137f494665df42c663cdc0097646b0360e2edceaf8dfae72608adada07ab8d"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/modifier.stl",
+      "pass": true,
+      "detail": "c9db6d4811dbf19eba672e48908fabfa404fda5f81976ff9fd52a8b5c99d1477"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/neck-shim.stl",
+      "pass": true,
+      "detail": "61eb94b8188637f9b5b4cc462ca5790db6a9784faaf915493aad6dcb4def68a9"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/neck1.stl",
+      "pass": true,
+      "detail": "d8bb2150146fd9651b9c176c10053a7c8ced56b8f1f5effb1b302680b24cc5a7"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/neck2.stl",
+      "pass": true,
+      "detail": "6df9d75f9fcc10e3c0597c665980e4349b4c1fc03c34c604f685a7422485253d"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/neck3.stl",
+      "pass": true,
+      "detail": "6fbf6f10ccf4536240d8a55472b11ec5f37b4753cd692ce4924ad9ad190a4451"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/nut.stl",
+      "pass": true,
+      "detail": "109a748bd62141a65a1884db402a4a3bed486e44bb9d3f71fea24acdc490ec67"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/openbass-v2-v176.f3d",
+      "pass": true,
+      "detail": "9e1e77bf9acc10909808c2f8d6a2ad948f84c8bc37801be9ad633962e76ad61a"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/openbass-v2-v176.step",
+      "pass": true,
+      "detail": "a1120cc2ec46012e45adfe2feb89debe966fae0c49890e08175d4b376defc0ca"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.0/openbass-v2.3mf",
+      "pass": true,
+      "detail": "51fd2c84385c99b2baafb034c74161247c6de5e7f6d708a199dae639e2fa2bd2"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/body1.stl",
+      "pass": true,
+      "detail": "4decb6fae88a55b914da97da8b9392b97a865fd9eac16bbd1845391f691a7d77"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/body2.stl",
+      "pass": true,
+      "detail": "c52dbc214f4bc0109555cc4172de030f1ba8eb544012621177b5514c43473ed6"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/electronics-cover.stl",
+      "pass": true,
+      "detail": "2559e22f1c8d5473469f14ed519cfb3e6d700b88a5d2cae94ac23d89a1f90d60"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/modifier.stl",
+      "pass": true,
+      "detail": "345835c60149bc3bed9897396c77b79a8f50312d9541f5ccb90d7ca1521c9a67"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/neck-shim.stl",
+      "pass": true,
+      "detail": "03bcca5960a48f0881328229fdbd988025e109e624c3a78e5ad4ef4636aa8bd5"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/neck1.stl",
+      "pass": true,
+      "detail": "53ef0796018328ef199145600f895b1a2f9a36233daa75331eeed11444948aa6"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/neck2.stl",
+      "pass": true,
+      "detail": "d86d880472556dfed606abb4dc949b229cd754604ffc5b80f981eca61d02cb93"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/neck3.stl",
+      "pass": true,
+      "detail": "39dbae7b04154e601105fe0ca5d35d39a0a5db05d9995b09ad39a20cc03658fe"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/nut.stl",
+      "pass": true,
+      "detail": "26caebe8ce7d11f9855a68443dd3e0ecb2a20fff91a765f2c4a476c423cd86fe"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/openbass-v21-v27.f3d",
+      "pass": true,
+      "detail": "da7472a74aa07081e592357f84b91ddf7e62d779a32c32319620fbc00f9bb959"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/openbass-v21-v27.step",
+      "pass": true,
+      "detail": "84c269c033ecb6532dac5f094e83b5d717c0cc05d1d2d05c7660d3bd9dab471e"
+    },
+    {
+      "check": "immutable work/source_unpacked/OpenBass/OpenBass V2.1/openbass-v21.3mf",
+      "pass": true,
+      "detail": "4383b61f3738632cd11b119367e78dd60d02e98f426fa7cc6c259fb9b27dd4c8"
+    },
+    {
+      "check": "STEP C01_anchor_drill_template",
+      "pass": true,
+      "detail": [
+        64.0,
+        34.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STL C01_anchor_drill_template",
+      "pass": true,
+      "detail": [
+        64.0,
+        34.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C01_anchor_drill_template",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C02_rod_saddle_half",
+      "pass": true,
+      "detail": [
+        42.0,
+        32.0,
+        14.0
+      ]
+    },
+    {
+      "check": "STL C02_rod_saddle_half",
+      "pass": true,
+      "detail": [
+        42.0,
+        32.0,
+        14.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C02_rod_saddle_half",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C03_swivel_mock",
+      "pass": true,
+      "detail": [
+        60.0,
+        60.0,
+        8.0
+      ]
+    },
+    {
+      "check": "STL C03_swivel_mock",
+      "pass": true,
+      "detail": [
+        60.0,
+        59.98134994506836,
+        8.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C03_swivel_mock",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C04_wing_hinge_base",
+      "pass": true,
+      "detail": [
+        68.0,
+        68.0,
+        18.0
+      ]
+    },
+    {
+      "check": "STL C04_wing_hinge_base",
+      "pass": true,
+      "detail": [
+        68.0,
+        67.97886657714844,
+        18.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C04_wing_hinge_base",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C05_wing_hinge_tongue",
+      "pass": true,
+      "detail": [
+        70.0,
+        20.0,
+        9.4
+      ]
+    },
+    {
+      "check": "STL C05_wing_hinge_tongue",
+      "pass": true,
+      "detail": [
+        69.99688529968262,
+        19.999969482421875,
+        9.399999618530273
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C05_wing_hinge_tongue",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C06_travel_latch",
+      "pass": true,
+      "detail": [
+        44.0,
+        24.0,
+        21.0
+      ]
+    },
+    {
+      "check": "STL C06_travel_latch",
+      "pass": true,
+      "detail": [
+        44.0,
+        24.0,
+        21.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C06_travel_latch",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C07_travel_tang",
+      "pass": true,
+      "detail": [
+        22.0,
+        18.0,
+        18.0
+      ]
+    },
+    {
+      "check": "STL C07_travel_tang",
+      "pass": true,
+      "detail": [
+        22.0,
+        18.0,
+        18.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C07_travel_tang",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C08_endpin_stow_clip",
+      "pass": true,
+      "detail": [
+        32.0,
+        23.165151389911998,
+        16.0
+      ]
+    },
+    {
+      "check": "STL C08_endpin_stow_clip",
+      "pass": true,
+      "detail": [
+        32.0,
+        23.165151596069336,
+        16.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C08_endpin_stow_clip",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C09_M6_clearance_gauge",
+      "pass": true,
+      "detail": [
+        100.0,
+        30.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STL C09_M6_clearance_gauge",
+      "pass": true,
+      "detail": [
+        100.0,
+        30.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C09_M6_clearance_gauge",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "STEP C10_rod_clearance_gauge",
+      "pass": true,
+      "detail": [
+        100.0,
+        30.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STL C10_rod_clearance_gauge",
+      "pass": true,
+      "detail": [
+        100.0,
+        30.0,
+        6.0
+      ]
+    },
+    {
+      "check": "STEP/STL extent agreement C10_rod_clearance_gauge",
+      "pass": true,
+      "detail": "Within tessellation tolerance 0.1 mm"
+    },
+    {
+      "check": "hard stop blocks overtravel -1 deg",
+      "pass": true,
+      "detail": 62.25330184820553
+    },
+    {
+      "check": "hard stop blocks overtravel 91 deg",
+      "pass": true,
+      "detail": 62.25330184820511
+    },
+    {
+      "check": "M4 lock bore aligned 0 deg",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "M4 lock bore aligned 90 deg",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "original surface Bridge",
+      "pass": true,
+      "detail": 2.51084566116333e-06
+    },
+    {
+      "check": "original surface Center bar",
+      "pass": true,
+      "detail": 2.9564757430394064e-05
+    },
+    {
+      "check": "original surface Chest rest",
+      "pass": true,
+      "detail": 1.603586507754599e-05
+    },
+    {
+      "check": "original surface Chest rest left",
+      "pass": true,
+      "detail": 2.088043522956541e-05
+    },
+    {
+      "check": "original surface Knee bar",
+      "pass": true,
+      "detail": 5.714590460875933e-06
+    },
+    {
+      "check": "original surface Knee rest left",
+      "pass": true,
+      "detail": 1.0635880605134996e-05
+    },
+    {
+      "check": "original surface Knee rest right",
+      "pass": true,
+      "detail": 1.0635880605134996e-05
+    },
+    {
+      "check": "original surface Nameplate",
+      "pass": true,
+      "detail": 6.753136547348386e-06
+    },
+    {
+      "check": "original surface Part 1",
+      "pass": true,
+      "detail": 3.052204184013368e-05
+    },
+    {
+      "check": "original surface Part 2",
+      "pass": true,
+      "detail": 3.052340112088198e-05
+    },
+    {
+      "check": "original surface Part 3",
+      "pass": true,
+      "detail": 1.4783641707544665e-05
+    },
+    {
+      "check": "original surface Part 4",
+      "pass": true,
+      "detail": 1.4798743726484465e-05
+    },
+    {
+      "check": "original surface Part 5",
+      "pass": true,
+      "detail": 7.5777935627504626e-06
+    },
+    {
+      "check": "original surface Part 6",
+      "pass": true,
+      "detail": 6.496649948146727e-06
+    },
+    {
+      "check": "original surface Stand cap",
+      "pass": true,
+      "detail": 1.53421765161814e-05
+    },
+    {
+      "check": "original surface Stand clamp",
+      "pass": true,
+      "detail": 1.654487945673524e-05
+    },
+    {
+      "check": "original surface Stand holder",
+      "pass": true,
+      "detail": 1.5299015739149188e-05
+    },
+    {
+      "check": "closed positive solid cello/Part 1",
+      "pass": true,
+      "detail": 136098.667
+    },
+    {
+      "check": "closed positive solid cello/Part 2",
+      "pass": true,
+      "detail": 192617.529
+    },
+    {
+      "check": "closed positive solid cello/Part 3",
+      "pass": true,
+      "detail": 257620.177
+    },
+    {
+      "check": "closed positive solid cello/Part 4",
+      "pass": true,
+      "detail": 240392.32
+    },
+    {
+      "check": "closed positive solid cello/Part 5",
+      "pass": true,
+      "detail": 128500.363
+    },
+    {
+      "check": "closed positive solid cello/Part 6",
+      "pass": true,
+      "detail": 251593.076
+    },
+    {
+      "check": "closed positive solid cello/Bridge",
+      "pass": true,
+      "detail": 4231.143
+    },
+    {
+      "check": "closed positive solid cello/Center bar",
+      "pass": true,
+      "detail": 114525.453
+    },
+    {
+      "check": "closed positive solid cello/Nameplate",
+      "pass": true,
+      "detail": 6192.478
+    },
+    {
+      "check": "closed positive solid cello/Chest rest",
+      "pass": true,
+      "detail": 118038.025
+    },
+    {
+      "check": "closed positive solid cello/wing_-1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid cello/wing_1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid cello/METAL_RAIL_ENVELOPE_unresolved",
+      "pass": true,
+      "detail": 170000.0
+    },
+    {
+      "check": "closed positive solid cello/ENDPIN_STOW_ASSUMED",
+      "pass": true,
+      "detail": 12641.8
+    },
+    {
+      "check": "closed positive solid bass/Part 1",
+      "pass": true,
+      "detail": 136098.667
+    },
+    {
+      "check": "closed positive solid bass/Part 2",
+      "pass": true,
+      "detail": 192617.529
+    },
+    {
+      "check": "closed positive solid bass/Part 3",
+      "pass": true,
+      "detail": 257620.177
+    },
+    {
+      "check": "closed positive solid bass/Part 4",
+      "pass": true,
+      "detail": 240392.32
+    },
+    {
+      "check": "closed positive solid bass/Part 5",
+      "pass": true,
+      "detail": 128500.363
+    },
+    {
+      "check": "closed positive solid bass/Part 6",
+      "pass": true,
+      "detail": 251593.076
+    },
+    {
+      "check": "closed positive solid bass/Bridge",
+      "pass": true,
+      "detail": 4231.143
+    },
+    {
+      "check": "closed positive solid bass/Center bar",
+      "pass": true,
+      "detail": 114525.453
+    },
+    {
+      "check": "closed positive solid bass/Nameplate",
+      "pass": true,
+      "detail": 6192.478
+    },
+    {
+      "check": "closed positive solid bass/Chest rest",
+      "pass": true,
+      "detail": 118038.025
+    },
+    {
+      "check": "closed positive solid bass/wing_-1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid bass/wing_1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid bass/METAL_RAIL_ENVELOPE_unresolved",
+      "pass": true,
+      "detail": 170000.0
+    },
+    {
+      "check": "closed positive solid bass/ENDPIN_STOW_ASSUMED",
+      "pass": true,
+      "detail": 12641.8
+    },
+    {
+      "check": "closed positive solid transition/Part 1",
+      "pass": true,
+      "detail": 136098.61
+    },
+    {
+      "check": "closed positive solid transition/Part 2",
+      "pass": true,
+      "detail": 192617.482
+    },
+    {
+      "check": "closed positive solid transition/Part 3",
+      "pass": true,
+      "detail": 257620.348
+    },
+    {
+      "check": "closed positive solid transition/Part 4",
+      "pass": true,
+      "detail": 240392.102
+    },
+    {
+      "check": "closed positive solid transition/Part 5",
+      "pass": true,
+      "detail": 128500.418
+    },
+    {
+      "check": "closed positive solid transition/Part 6",
+      "pass": true,
+      "detail": 251593.328
+    },
+    {
+      "check": "closed positive solid transition/Bridge",
+      "pass": true,
+      "detail": 4231.151
+    },
+    {
+      "check": "closed positive solid transition/Center bar",
+      "pass": true,
+      "detail": 114525.419
+    },
+    {
+      "check": "closed positive solid transition/Nameplate",
+      "pass": true,
+      "detail": 6192.472
+    },
+    {
+      "check": "closed positive solid transition/Chest rest",
+      "pass": true,
+      "detail": 118037.841
+    },
+    {
+      "check": "closed positive solid transition/wing_-1",
+      "pass": true,
+      "detail": 48576.139
+    },
+    {
+      "check": "closed positive solid transition/wing_1",
+      "pass": true,
+      "detail": 48576.139
+    },
+    {
+      "check": "closed positive solid transition/METAL_RAIL_ENVELOPE_unresolved",
+      "pass": true,
+      "detail": 170000.057
+    },
+    {
+      "check": "closed positive solid transition/ENDPIN_STOW_ASSUMED",
+      "pass": true,
+      "detail": 12641.822
+    },
+    {
+      "check": "closed positive solid travel/Part 1",
+      "pass": true,
+      "detail": 136098.667
+    },
+    {
+      "check": "closed positive solid travel/Part 2",
+      "pass": true,
+      "detail": 192617.529
+    },
+    {
+      "check": "closed positive solid travel/Part 3",
+      "pass": true,
+      "detail": 257620.177
+    },
+    {
+      "check": "closed positive solid travel/Part 4",
+      "pass": true,
+      "detail": 240392.32
+    },
+    {
+      "check": "closed positive solid travel/Part 5",
+      "pass": true,
+      "detail": 128500.363
+    },
+    {
+      "check": "closed positive solid travel/Part 6",
+      "pass": true,
+      "detail": 251593.076
+    },
+    {
+      "check": "closed positive solid travel/Bridge",
+      "pass": true,
+      "detail": 4231.143
+    },
+    {
+      "check": "closed positive solid travel/Center bar",
+      "pass": true,
+      "detail": 114525.453
+    },
+    {
+      "check": "closed positive solid travel/Nameplate",
+      "pass": true,
+      "detail": 6192.478
+    },
+    {
+      "check": "closed positive solid travel/Chest rest",
+      "pass": true,
+      "detail": 118038.025
+    },
+    {
+      "check": "closed positive solid travel/wing_-1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid travel/wing_1",
+      "pass": true,
+      "detail": 48576.0
+    },
+    {
+      "check": "closed positive solid travel/METAL_RAIL_ENVELOPE_unresolved",
+      "pass": true,
+      "detail": 170000.0
+    },
+    {
+      "check": "closed positive solid travel/ENDPIN_STOW_ASSUMED",
+      "pass": true,
+      "detail": 12641.8
+    },
+    {
+      "check": "same live geometry",
+      "pass": true,
+      "detail": "Inverse rigid transform vertex regression"
+    },
+    {
+      "check": "wing continuous padded sweep",
+      "pass": true,
+      "detail": "Limited to modeled core/wing envelopes"
+    }
+  ]
+}

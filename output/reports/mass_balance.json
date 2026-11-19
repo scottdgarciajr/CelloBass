@@ -1,0 +1,179 @@
+{
+  "status": "PRELIMINARY ASSUMED MATERIALS/MASSES; NOT TESTED",
+  "mass_kg": 2.794700913730297,
+  "center_mm": [
+    -6.4169233423878,
+    -17.581328039829106,
+    186.96893198034027
+  ],
+  "rotation_center_mm": [
+    0,
+    -40,
+    280
+  ],
+  "max_gravity_torque_about_Y_Nm": 2.5557283608800794,
+  "assumed_anchor_spacing_mm": 280,
+  "force_couple_at_280mm_N": 9.127601288857425,
+  "sensitivity_mass_range_kg": [
+    2.5,
+    5
+  ],
+  "sensitivity_horizontal_lever_mm": [
+    100,
+    300
+  ],
+  "sensitivity_max_torque_Nm": 14.709974999999998,
+  "limitations": "Does not calculate rod stress, connection strength, dynamic loads, strap tensions, harness stiffness, player dimensions or bearing pressure",
+  "budget": [
+    {
+      "part": "Part_1",
+      "mass_kg": 0.06049587025752406,
+      "center_mm": [
+        0.16797480676478158,
+        7.472526775821303,
+        720.7490202012135
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Part_2",
+      "mass_kg": 0.08561857060332802,
+      "center_mm": [
+        -0.2933960922823794,
+        8.472593450352758,
+        542.7326633793683
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Part_3",
+      "mass_kg": 0.11451216635532112,
+      "center_mm": [
+        0.3301047638792677,
+        7.116962173751823,
+        364.19489833745337
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Part_4",
+      "mass_kg": 0.10685426238922885,
+      "center_mm": [
+        -0.2124187827784526,
+        4.949679229381813,
+        210.33640818069745
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Part_5",
+      "mass_kg": 0.05711842313002266,
+      "center_mm": [
+        4.109053470489325e-06,
+        -2.1980689486061773,
+        90.5178593504468
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Part_6",
+      "mass_kg": 0.11183308251315673,
+      "center_mm": [
+        6.590955180776136e-08,
+        -12.534058121889618,
+        -31.102463957213466
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Bridge",
+      "mass_kg": 0.0018807492530416308,
+      "center_mm": [
+        1.0555712385876959,
+        21.69423833085102,
+        54.694328950544914
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Nameplate",
+      "mass_kg": 0.0027525948456761993,
+      "center_mm": [
+        -0.21991818014652084,
+        13.753146731747599,
+        96.20822494826395
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Chest_rest",
+      "mass_kg": 0.052467794811517275,
+      "center_mm": [
+        19.0126915694423,
+        -72.28811786631861,
+        457.9500458019355
+      ],
+      "basis": "PETG 1.27 g/cm3, effective volume fraction 0.35 ASSUMED"
+    },
+    {
+      "part": "Steel rod",
+      "mass_kg": 0.8878140839044755,
+      "center_mm": [
+        0,
+        7.8,
+        251.8
+      ],
+      "basis": "12mm x 1000mm solid steel; nominal BOM"
+    },
+    {
+      "part": "Rear rail",
+      "mass_kg": 0.459,
+      "center_mm": [
+        -40,
+        -50,
+        150
+      ],
+      "basis": "25x10x680 solid aluminum ENVELOPE assumption"
+    },
+    {
+      "part": "Endpin tube",
+      "mass_kg": 0.034353315667004385,
+      "center_mm": [
+        27,
+        -55,
+        65
+      ],
+      "basis": "10mm OD, 1mm wall, 450mm aluminum ASSUMED"
+    },
+    {
+      "part": "Tuners and fasteners",
+      "mass_kg": 0.45,
+      "center_mm": [
+        0,
+        -10,
+        -25
+      ],
+      "basis": "ASSUMED lumped mass; actual hardware not supplied"
+    },
+    {
+      "part": "Pickup jack wire locks",
+      "mass_kg": 0.15,
+      "center_mm": [
+        -10,
+        -50,
+        150
+      ],
+      "basis": "ASSUMED lumped mass"
+    },
+    {
+      "part": "Wings and hinge hardware",
+      "mass_kg": 0.22,
+      "center_mm": [
+        0,
+        -75,
+        165
+      ],
+      "basis": "ASSUMED pair total; coupon geometry not integrated"
+    }
+  ]
+}

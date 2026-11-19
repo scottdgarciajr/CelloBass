@@ -1,0 +1,28 @@
+project: CelloBass
+revision: r0.2-measured-study-and-bench-coupons
+unit: mm
+source_of_truth: evaluated supplied O-Cello Blender geometry
+printer:
+  envelope_mm: [200, 200, 200]
+  status: placeholder_actual_printer_unknown
+instrument:
+  strings: 4
+  tuning: [C2, G2, D3, A3]
+  speaking_scale_mm: null
+  scale_status: bearing_points_unresolved_original_mesh_retained
+  core_folds: false
+  bridge_moves: false
+states:
+  live_cello_wing_fold_deg: 0
+  live_bass_wing_fold_deg: 0
+  travel_wing_fold_deg: 90
+  live_rotation_deg: -90
+  rotation_reference_mm: [0, -40, 280]
+  rotation_reference_is_installed_pivot: false
+release:
+  digital_source_audit: delivered_with_unresolved_functional_dimensions
+  digital_test_coupons: delivered
+  support_feasibility: NOT_TESTED
+  positive_metal_load_path: UNRESOLVED
+  production_instrument: HOLD
+  physical_timing: NOT_TESTED

@@ -1,0 +1,57 @@
+project: CelloBass
+revision: 0.2-folding-body-live-switch
+unit: mm
+source_of_truth: O-Cello (measure exact dimensions from Blender; do not guess)
+printer:
+  # Placeholder; set user's actual printer settings before production
+  build_x_mm: 200
+  build_y_mm: 200
+  build_z_mm: 200
+  nozzle_mm: null
+  preferred_material: PETG
+  clearance_test_required: true
+instrument:
+  tuning: [C2, G2, D3, A3]
+  strings: 4
+  fretted: false
+  bridge: original-fixed-curved-cello
+  scale_length_mm: null
+  original_rod_diameter_mm: 12  # document nominal; validate original design
+  original_rod_length_mm: 1000  # document nominal; validate original design
+transformation:
+  performance:
+    wing_pose: deployed-locked-unchanged-in-both-live-modes
+    cello_orientation: upright
+    bass_orientation: approximately-horizontal
+    strap_or_harness: attached-in-both-live-modes-physically-test
+    endpin: stowed-before-live-mode-switching
+    alternate_stationary_practice: planted-extended-endpin-slower-transition
+    mode_control: external-effects-footswitch-one-action
+    no_tool_changes_between_modes: true
+    no_retuning_or_bridge_change: true
+    require_harness_center_of_mass_and_bow-clearance_tests: true
+  travel:
+    wings: fold-in-only-after-performance
+    wing_lock: metal-pinned-positive-lock-and-hard-stop
+    string_bearing_spine_folds: false
+    endpin: stow
+    body_shape_shortens: false
+    backpack_fit_claim: false
+    packed_length_mm: null  # must measure source assembly
+  hinge_pin_diameter_mm: null
+  hinge_radial_clearance_mm: null
+  strap_mount_design: reinforced-metal-hardware-required
+electronics:
+  pickup: bridge-piezo-to-be-selected
+  mode_selection_v2: footswitch-plus-offboard-DSP
+  bass_pitch_shift_semitones: -8
+  bass_pitch_shift_usage: optional-monophonic-experimental
+  automatic_mode_sensing: later-not-core
+status:
+  original_model_dimensions_verified: false
+  harness_feasibility_physically_tested: false
+  wing_lock_physically_tested: false
+  mid_song_transition_measured: false
+  packed_dimensions_measured: false
+  source_prints_verified: false
+  pickup_and_audio_tested: false

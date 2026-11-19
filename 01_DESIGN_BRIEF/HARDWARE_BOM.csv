@@ -1,0 +1,21 @@
+Component,Initial specification,Origin,Importance,Engineering note,Status
+String set,4 cello strings C/G/D/A,O-Cello original,required,Match original type and speaking length; no bass strings,verify
+Central structural reinforcement,"12 mm steel rod, 1 m nominal",O-Cello official assembly,required,Verify dimension and overlap from supplied Blender geometry,verify
+Endpin hardware,"10 mm aluminium tube, ~45 cm nominal",O-Cello official assembly,required,May need alternate lock for stow mechanism; retain structural reliability,verify
+Original rest bar,"Aluminium L bar 20x20x2 mm, ~30cm",O-Cello official assembly,optional/rework,Might be replaced with new folding wings only after load testing,TBD
+Tuners,4 bass tuning keys (2+2),O-Cello official assembly,required,Select mounting pattern based on geometry,verify
+Screws/washers/nuts,M5 set,O-Cello official assembly,required,"O-Cello doc M5x45 (7), M5x30 (2), 9 nuts, 12 washers",verify
+Wing pivot pins,Steel pins / shoulder bolts,new,required,No plastic-only pins at structural hinge points,TBD
+Locking mechanism,Detent / clevis pin / cam latch,new,required,Provide hard stops and positive mechanical locks,TBD
+Strap mounts,Two metal reinforced buttons/anchors,new,required,Must load into metal or reinforced assembly; do physical load test,TBD
+Pickup,Piezo/transducer compatible with bridge,new,required for electric output,Design bridge coupling and high-impedance path,TBD
+Preamp or high-Z input,High impedance piezo interface,new,conditional,Depending on pickup choice; avoid thin weak sound,TBD
+Output jack,1/4-inch audio jack,new,required for amp,Include strain relief and accessible port in both modes,TBD
+Mode switch,Manual two-position switch / mapped controller,new,optional for V1,May be purely a placeholder sending input to external effects,TBD
+Bass FX,External phone/PC/pedal with pitch/EQ/compression,not in printed structure,optional,Mono -8 semitones maps C2 to E1; assess latency/tracking,TBD
+Wing shells,Printed PETG/other suitable FDM,new CAD,required,Split into build-volume compliant sections; validate creep and strength,design
+Neck/body replacement sections,Printed per source or revised,O-Cello derivative if necessary,conditional,Do not alter frozen musical geometry,design
+Dual-orientation performance harness / strap,"Continuously attached, endpin-stowed upright + horizontal tested support",new,V2 performance blocker,Must safely resist roll/torque and keep bow/hand access; no strap rehooking during song,mechanical proof required
+Harness reinforced anchoring and optional swivel,Metal reinforced two-point hardware with positive anti-roll provision,new,V2 performance blocker,"Anchors into continuous reinforced core, NOT folding wings; assess center of mass and cable torsion",TBD after dimensions
+Effects preset footswitch,Compatible pedal/MIDI foot control with selected offboard effects host,new,required for V2 one-action performance switching,Must confirm real control path to processor; passive cello toggle cannot necessarily drive software,TBD
+Travel wing latches / vibration pads,Captive positive locks and replaceable elastomer bumpers,new,required for V2 folding body,"Secure against accidental deploy/fold, avoid bridge and strings in packed state",TBD

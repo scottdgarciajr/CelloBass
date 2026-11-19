@@ -1,0 +1,74 @@
+{
+  "cello": {
+    "xyz_mm": [
+      466.6746424582976,
+      181.21307373046875,
+      1070.2771453857422
+    ],
+    "min_mm": [
+      -220.67552120710533,
+      -148.0,
+      -248.1869354248047
+    ],
+    "max_mm": [
+      245.99912125119232,
+      33.21307373046875,
+      822.0902099609375
+    ],
+    "status": "provisional connected study incl pad envelopes; no human/harness/cable protection bounds"
+  },
+  "bass": {
+    "xyz_mm": [
+      1012.540376102089,
+      181.21307373046875,
+      461.98748911630685
+    ],
+    "min_mm": [
+      -514.2083535091742,
+      -148.0,
+      16.634140838443074
+    ],
+    "max_mm": [
+      498.33202259291477,
+      33.21307373046875,
+      478.6216299547499
+    ],
+    "status": "provisional connected study incl pad envelopes; no human/harness/cable protection bounds"
+  },
+  "transition": {
+    "xyz_mm": [
+      630.3496518741986,
+      181.21307373046875,
+      888.2088997563128
+    ],
+    "min_mm": [
+      -322.45075417186683,
+      -148.0,
+      -156.0878038744054
+    ],
+    "max_mm": [
+      307.8988977023318,
+      33.21307373046875,
+      732.1210958819074
+    ],
+    "status": "provisional connected study incl pad envelopes; no human/harness/cable protection bounds"
+  },
+  "travel": {
+    "xyz_mm": [
+      290.8869754477016,
+      181.21307373046875,
+      1070.2771453857422
+    ],
+    "min_mm": [
+      -143.27027049654072,
+      -148.0,
+      -248.1869354248047
+    ],
+    "max_mm": [
+      147.61670495116087,
+      33.21307373046875,
+      822.0902099609375
+    ],
+    "status": "provisional connected study incl pad envelopes; no human/harness/cable protection bounds"
+  }
+}

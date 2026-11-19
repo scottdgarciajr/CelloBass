@@ -1,0 +1,163 @@
+{
+  "operations": {
+    "play": [
+      {
+        "operation": "play",
+        "progress": 0,
+        "phase": {
+          "live": -0.0,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "play",
+        "progress": 20,
+        "phase": {
+          "live": -14,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "play",
+        "progress": 50,
+        "phase": {
+          "live": -35,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "play",
+        "progress": 83,
+        "phase": {
+          "live": -58.099999999999994,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "play",
+        "progress": 100,
+        "phase": {
+          "live": -70,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      }
+    ],
+    "pack": [
+      {
+        "operation": "pack",
+        "progress": 0,
+        "phase": {
+          "live": 0,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "pack",
+        "progress": 20,
+        "phase": {
+          "live": 0,
+          "fold": 0,
+          "withdraw": 1,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "pack",
+        "progress": 50,
+        "phase": {
+          "live": 0,
+          "fold": 45,
+          "withdraw": 1,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "pack",
+        "progress": 83,
+        "phase": {
+          "live": 0,
+          "fold": 90,
+          "withdraw": 1,
+          "lockMove": 0.5999999999999983
+        }
+      },
+      {
+        "operation": "pack",
+        "progress": 100,
+        "phase": {
+          "live": 0,
+          "fold": 90,
+          "withdraw": 0,
+          "lockMove": 1
+        }
+      }
+    ],
+    "joint": [
+      {
+        "operation": "joint",
+        "progress": 0,
+        "phase": {
+          "live": 0,
+          "fold": 0,
+          "withdraw": 0,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "joint",
+        "progress": 20,
+        "phase": {
+          "live": 0,
+          "fold": 0,
+          "withdraw": 1,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "joint",
+        "progress": 50,
+        "phase": {
+          "live": 0,
+          "fold": 45,
+          "withdraw": 1,
+          "lockMove": 0
+        }
+      },
+      {
+        "operation": "joint",
+        "progress": 83,
+        "phase": {
+          "live": 0,
+          "fold": 90,
+          "withdraw": 1,
+          "lockMove": 0.5999999999999983
+        }
+      },
+      {
+        "operation": "joint",
+        "progress": 100,
+        "phase": {
+          "live": 0,
+          "fold": 90,
+          "withdraw": 0,
+          "lockMove": 1
+        }
+      }
+    ]
+  },
+  "script_errors": [],
+  "animation_completed": true,
+  "mobile_no_horizontal_overflow": true
+}

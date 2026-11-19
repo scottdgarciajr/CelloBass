@@ -1,0 +1,25 @@
+{
+  "revision": "r0.3",
+  "bass_neck_up_deg": 20,
+  "live_rotation_deg": -70,
+  "bass_use_preference": "SEATED: padded lower frame is a thigh cradle; no seated fit validated",
+  "rotation_center_mm": [
+    0,
+    -40,
+    280
+  ],
+  "hinges": {
+    "1": [
+      65,
+      -60,
+      150
+    ],
+    "-1": [
+      -65,
+      -110,
+      150
+    ]
+  },
+  "source_chest_rest": "REMOVED: projecting rigid rest interferes with dual-pose concept",
+  "status": "CONNECTED CAD STUDY; metal spine attachment, ergonomics and loads NOT TESTED"
+}

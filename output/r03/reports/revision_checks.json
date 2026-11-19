@@ -1,0 +1,414 @@
+{
+  "passed": 81,
+  "checks": [
+    {
+      "check": "STEP clevis_base_-1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP clevis_base_1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP contoured_frame_-1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP contoured_frame_1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP endpin_bracket_-100",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP endpin_bracket_200",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP harness_eye_boss_210",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP harness_eye_boss_420",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP hinged_tongue_-1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP hinged_tongue_1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP lower_metal_adapter_PROPOSED",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP mount_standoff_-1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP mount_standoff_1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP padded_contact_-1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP padded_contact_1",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP rear_metal_backbone",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP upper_secondary_saddle_PROPOSED",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "STEP wing_crossmember",
+      "pass_": true,
+      "detail": "Solid re-import"
+    },
+    {
+      "check": "moving tongue/frame/pad against hinge base",
+      "pass_": true,
+      "detail": "546 exact solid comparisons at 1 degree intervals; no volume overlap"
+    },
+    {
+      "check": "hinge overtravel -1",
+      "pass_": true,
+      "detail": "Hard stops block extended r03 tongue"
+    },
+    {
+      "check": "hinge overtravel 91",
+      "pass_": true,
+      "detail": "Hard stops block extended r03 tongue"
+    },
+    {
+      "check": "unchanged live assembly",
+      "pass_": true,
+      "detail": {
+        "max_error_mm": 0.00011166580981125662,
+        "live_wing_fold_deg": 0
+      }
+    },
+    {
+      "check": "closed positive mesh Part_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_1",
+      "pass_": true,
+      "detail": 8.036088046368535e-05
+    },
+    {
+      "check": "closed positive mesh Part_2",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_2",
+      "pass_": true,
+      "detail": 7.81388452176801e-05
+    },
+    {
+      "check": "closed positive mesh Part_3",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_3",
+      "pass_": true,
+      "detail": 8.043343135336506e-05
+    },
+    {
+      "check": "closed positive mesh Part_4",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_4",
+      "pass_": true,
+      "detail": 8.13408797851097e-05
+    },
+    {
+      "check": "closed positive mesh Part_5",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_5",
+      "pass_": true,
+      "detail": 7.689138369246355e-05
+    },
+    {
+      "check": "closed positive mesh Part_6",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Part_6",
+      "pass_": true,
+      "detail": 8.174247608447739e-05
+    },
+    {
+      "check": "closed positive mesh Bridge",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Bridge",
+      "pass_": true,
+      "detail": 8.157196303324542e-05
+    },
+    {
+      "check": "closed positive mesh Center_bar",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Center_bar",
+      "pass_": true,
+      "detail": 7.6427647026243e-05
+    },
+    {
+      "check": "closed positive mesh Nameplate",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "original mesh preserved Nameplate",
+      "pass_": true,
+      "detail": 7.930850960274394e-05
+    },
+    {
+      "check": "closed positive mesh rear_metal_backbone",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh lower_metal_adapter_PROPOSED",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh upper_secondary_saddle_PROPOSED",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh wing_crossmember",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh mount_standoff_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh clevis_base_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh hinged_tongue_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh contoured_frame_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh padded_contact_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_shaft_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_head_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_retainer_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh frame_bolt_-1_48",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh frame_bolt_-1_68",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh base_bolt_-1_-8",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh base_bolt_-1_8",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh wing_lock_-1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh mount_standoff_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh clevis_base_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh hinged_tongue_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh contoured_frame_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh padded_contact_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_shaft_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_head_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh pivot_retainer_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh frame_bolt_1_48",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh frame_bolt_1_68",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh base_bolt_1_-8",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh base_bolt_1_8",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh wing_lock_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh harness_eye_210",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh harness_eye_boss_210",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh harness_eye_420",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh harness_eye_boss_420",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh string_illustration_0",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh string_illustration_1",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh string_illustration_2",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh string_illustration_3",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh stowed_endpin_tube",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh endpin_bracket_-100",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    },
+    {
+      "check": "closed positive mesh endpin_bracket_200",
+      "pass_": true,
+      "detail": "Source or study geometry, not a print/strength release"
+    }
+  ],
+  "limitations": "No whole-instrument or human sweep certification. No structural or comfort result."
+}

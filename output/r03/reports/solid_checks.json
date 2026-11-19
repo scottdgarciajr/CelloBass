@@ -1,0 +1,110 @@
+[
+  {
+    "part": "rear_metal_backbone",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 130000.0
+  },
+  {
+    "part": "lower_metal_adapter_PROPOSED",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 58929.531536558374
+  },
+  {
+    "part": "upper_secondary_saddle_PROPOSED",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 23400.0
+  },
+  {
+    "part": "wing_crossmember",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 39355.32765776183
+  },
+  {
+    "part": "mount_standoff_-1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 26656.0
+  },
+  {
+    "part": "clevis_base_-1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 33419.880204825975
+  },
+  {
+    "part": "hinged_tongue_-1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 14190.969926034328
+  },
+  {
+    "part": "contoured_frame_-1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 121347.56809041226
+  },
+  {
+    "part": "padded_contact_-1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 83823.26178211505
+  },
+  {
+    "part": "mount_standoff_1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 7056.0
+  },
+  {
+    "part": "clevis_base_1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 33419.880204825975
+  },
+  {
+    "part": "hinged_tongue_1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 14190.969926034328
+  },
+  {
+    "part": "contoured_frame_1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 130858.19467701406
+  },
+  {
+    "part": "padded_contact_1",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 98667.84978569129
+  },
+  {
+    "part": "harness_eye_boss_210",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 3456.0
+  },
+  {
+    "part": "harness_eye_boss_420",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 3456.0
+  },
+  {
+    "part": "endpin_bracket_-100",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 4701.663828880913
+  },
+  {
+    "part": "endpin_bracket_200",
+    "valid": true,
+    "watertight": true,
+    "volume_mm3": 4701.663828880913
+  }
+]

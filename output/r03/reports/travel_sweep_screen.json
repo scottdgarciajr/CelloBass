@@ -1,0 +1,5 @@
+{
+  "method": "Surface intersection screen of the modeled travel animation at 201 positions",
+  "overlaps_at_percent_of_animation": {},
+  "limits": "Sampled triangle surfaces. Contact flags need interpretation. Excludes human, cable, tethers, tolerances, and loads."
+}

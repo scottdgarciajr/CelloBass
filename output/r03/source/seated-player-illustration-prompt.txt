@@ -1,0 +1,27 @@
+Tool: built-in image_gen.imagegen (not CLI).
+Purpose: explanatory seated-use concept; no CAD geometry revised from this illustration.
+References: output/r03/views/cello.png and output/r03/views/bass.png.
+Output: output/r03/views/seated-player-storyboard-v1.png.
+
+Use case: scientific-educational.
+Create ONE high-resolution, landscape, human-centered illustrated storyboard for a non-engineer who wants to understand a proposed seated CelloBass. This is a clear product-use concept illustration, NOT a photo or claim of a functioning prototype.
+
+Reference images: the two local CAD renderings are geometry references for the SAME current instrument, upright and bass-oriented. Preserve the recognizable narrow full-length charcoal rigid cello spine, long fretless fingerboard, four strings, original curved cello bridge, lower-body tuners, teal asymmetric open ergonomic frames on circular hinges, dark foam pads and rear metal rail. These frames stay deployed in EVERY panel. Do not add an ordinary guitar/cello shell, shorten the instrument, fold its neck, flatten its bridge, put the tuners at the head, detach parts, or redesign the teal frames. The source instrument is about 1.07 m long with a roughly 0.69 m speaking length. Portrait of an average-size generic adult, not a fit claim for the user.
+
+Composition: two LARGE main panels across the upper two-thirds, and four smaller numbered action panels across the lower third. Clean warm-white background, realistic anatomical proportions, gentle editorial illustration with precise linework and restrained shading, generous spacing, very large plain-English labels. Same casually dressed adult wearing a plain navy shirt and gray trousers, same armless chair, same instrument and same visible supportive strap in every panel. Show whole body including chair, thighs and feet. An oblique front view must make leg contact and hand positions readable. No ornamental backgrounds.
+
+LEFT main panel exact heading: "CELLO: upright"
+The person sits with knees apart, holds the neck with the LEFT hand, and bows with the RIGHT hand. Bow touches the strings at the original bridge, not the fingerboard. Place the original bridge at a plausible reachable bowing height and nut near shoulder/head level. Endpin is STOWED and does NOT touch the floor. The current CAD teal wing pads consequently sit higher than the inner knees; DO NOT falsely make both current pads magically fit the knees. Show a clearly labeled PROPOSED supporting shoulder/body strap connected to the fixed rear structure and carrying the instrument, routing behind the bow. Large callout "Proposed support strap — untested". A plain arrow to the gap between the lower core and inner knees: "Knee support still needs design". Add a small inset of the lower core between the knees with orange dashed outlines indicating where new soft knee contacts would be needed; the dashed outlines must obviously be proposals, not existing finished parts. Exact inset label "Needed: lower knee pads". DO NOT show unsupported floating playing as an established success.
+
+RIGHT main panel exact heading: "BASS: across the right thigh"
+Same seated person finger-plucks with RIGHT hand and fingers the neck with LEFT hand. Instrument neck points to the PLAYER'S LEFT and slightly up, about 20 degrees. The original concave lower padded teal frame now rests gently on top of the PLAYER'S RIGHT THIGH near the front of the seat; highlight that actual proposed contact. The other frame supports the RIGHT forearm. SAME deployed frame geometry and continuously attached proposed supporting strap; no wing adjustment between live poses. Endpin remains stowed. Label the contacts with arrows "Soft pad on right thigh", "Forearm rests here", and "Neck slightly raised". Add a small clear close-up inset showing dark cushion touching trousered right thigh, with label "This is the seated bass contact". It must be physically readable, not a technical drawing with floating ellipses. The same strap can share the weight, but its stable two-pose function is NOT tested.
+
+BOTTOM action panels, same character and instrument, exact short titles:
+"1. Stop bowing" — seated upright, finish at a rest.
+"2. Park the bow" — right hand places bow into a simple holder beside the chair, while left hand and proposed strap support the instrument. The bow holder is a proposed accessory; tiny label "Holder needed".
+"3. Turn with both hands" — both hands support the FIXED core/neck during controlled diagonal rotation toward bass; use a curved arrow around the WHOLE rigid instrument. Keep both teal frames deployed. Tiny plain label "Frames stay locked".
+"4. Settle, switch, pluck" — lower cushion rests on right thigh, one foot presses a single external effects footswitch, then right hand plucks. Tiny label "One effects-pedal press".
+
+Only include these supplied labels, plus large footer exact text:
+"PROPOSED POSITIONS — comfort and upright support have not been tested."
+Do not say instant, seamless, safe, validated, load-rated or ready to print. Do not imply the supporting strap is a finished engineered solution. Make this readable and useful to a person deciding if the concept can be comfortable, including its unsolved upright knee support. Anatomically correct hands, plausible reach, no bent strings, and no duplicated bows.
